@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Animasyon
+  - puanAnim
+  - ses
+  - sure
+  - skor
+  - islemText
+  - skorEkran
+  - engel
+  - ustSinir
+  - lav
+  - puanSesleri
+  - arkaPlanSesi
+  - yer
+  - elleZipla
+  - altin
+  - araba
+  - altinImage
+  - duvarCol
+  - engel2
+  - arabaBody
+  - oyunSonu
+  - ziplamaOnay
+  - ziplamaEngel
+  - oyunSonuText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Karakter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Partic
+    uniqueID: 2104312565
+    locked: 0
+  - name: 
+    uniqueID: 864033635
+    locked: 0
